@@ -1,0 +1,10 @@
+ul,ol{
+    list-style: none;
+}
+
+.advertisement{
+    position: relative;
+    width: 500;
+    height: 281;
+    overflow: auto;
+}
